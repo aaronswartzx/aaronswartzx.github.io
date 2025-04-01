@@ -116,7 +116,7 @@ author:
   name             : "Aaron Swartz"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a bad apple"
-  location         : "London, United Kingdom"
+  location         : "London"
   email            :
   links:
     - label: "Email"
